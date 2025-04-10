@@ -8,20 +8,20 @@ const Gallery = () => {
   
   const images = [
     {
+      src: "/lovable-uploads/770c7c19-8ec6-4a0b-9b29-977f8bb4d814.png",
+      alt: "Kaaba in Makkah at night"
+    },
+    {
+      src: "/lovable-uploads/587c40a4-3d4e-4b57-9ad5-ef215b78888d.png",
+      alt: "Pilgrims in ihram at Kaaba"
+    },
+    {
       src: "https://images.unsplash.com/photo-1591604621962-b6469122863a?q=80&w=2070",
       alt: "Prophet's Mosque in Madinah"
     },
     {
-      src: "https://images.unsplash.com/photo-1564769623108-30de21a61b9b?q=80&w=2070",
-      alt: "Kaaba during Umrah"
-    },
-    {
       src: "https://images.unsplash.com/photo-1535368459444-9bcb6089eb34?q=80&w=2070",
       alt: "Pilgrims at Mount Arafat"
-    },
-    {
-      src: "https://images.unsplash.com/photo-1566624790190-511a09f6ddbd?q=80&w=2070",
-      alt: "Pilgrims in Ihram"
     },
     {
       src: "https://images.unsplash.com/photo-1608693378126-304adb862b40?q=80&w=2070",

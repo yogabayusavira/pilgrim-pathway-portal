@@ -75,14 +75,14 @@ const About = () => {
           
           <div className="relative">
             <img 
-              src="https://images.unsplash.com/photo-1604331765976-2b8bb0287344?q=80&w=2070" 
+              src="/lovable-uploads/770c7c19-8ec6-4a0b-9b29-977f8bb4d814.png" 
               alt="Kaaba in Makkah" 
               className="rounded-lg shadow-xl w-full object-cover h-[500px]"
             />
             <div className="absolute -bottom-6 -left-6 bg-white p-4 rounded-lg shadow-lg">
               <img 
-                src="https://images.unsplash.com/photo-1591604129939-f1efa6681b21?q=80&w=2070" 
-                alt="Madinah" 
+                src="/lovable-uploads/587c40a4-3d4e-4b57-9ad5-ef215b78888d.png" 
+                alt="Pilgrims in ihram at Kaaba" 
                 className="rounded-lg w-32 h-32 object-cover"
               />
             </div>
