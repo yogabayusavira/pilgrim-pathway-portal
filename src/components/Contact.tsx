@@ -52,14 +52,14 @@ const Contact = () => {
     {
       icon: <Phone className="w-5 h-5 text-hajj-700" />,
       title: "Phone",
-      details: ["+1 (555) 123-4567", "+1 (555) 765-4321"],
-      link: "tel:+15551234567"
+      details: ["+62 (812) 2995-5630"],
+      link: "tel:+6281229955630"
     },
     {
       icon: <Mail className="w-5 h-5 text-hajj-700" />,
       title: "Email",
-      details: ["info@alihsantravels.com", "booking@alihsantravels.com"],
-      link: "mailto:info@alihsantravels.com"
+      details: ["info@guramo.com"],
+      link: "mailto:info@guramo.com"
     },
     {
       icon: <MapPin className="w-5 h-5 text-hajj-700" />,

@@ -81,7 +81,7 @@ const Navbar = () => {
             <div className="mt-4 pt-4 border-t border-gray-100">
               <Button className="bg-hajj-700 hover:bg-hajj-800 text-white w-full flex items-center justify-center gap-2">
                 <Phone size={16} />
-                <span>+1 (555) 123-4567</span>
+                <span>+62 (812) 2768 6290</span>
               </Button>
             </div>
           </div>
