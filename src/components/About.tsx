@@ -81,7 +81,7 @@ const About = () => {
             />
             <div className="absolute -bottom-6 -left-6 bg-white p-4 rounded-lg shadow-lg">
               <img 
-                src="/lovable-uploads/587c40a4-3d4e-4b57-9ad5-ef215b78888d.png" 
+                src="/lovable-uploads/Green-Dome-Madinah.jpg" 
                 alt="Pilgrims in ihram at Kaaba" 
                 className="rounded-lg w-32 h-32 object-cover"
               />
