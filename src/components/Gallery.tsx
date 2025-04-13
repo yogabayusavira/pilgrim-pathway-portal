@@ -16,20 +16,20 @@ const Gallery = () => {
       alt: "Pilgrims in ihram at Kaaba"
     },
     {
-      src: "https://images.unsplash.com/photo-1591604621962-b6469122863a?q=80&w=2070",
-      alt: "Prophet's Mosque in Madinah"
+      src: "/lovable-uploads/33b86d54-c341-4600-92ce-9f7d031dba4b.png",
+      alt: "Prophet's Mosque in Madinah with green dome"
     },
     {
-      src: "https://images.unsplash.com/photo-1535368459444-9bcb6089eb34?q=80&w=2070",
-      alt: "Pilgrims at Mount Arafat"
+      src: "/lovable-uploads/b56fb742-ca69-4f52-b413-6977547f94ba.png",
+      alt: "Masjid Nabawi in Madinah"
     },
     {
-      src: "https://images.unsplash.com/photo-1608693378126-304adb862b40?q=80&w=2070",
-      alt: "Masjid al-Haram at night"
+      src: "/lovable-uploads/3012d280-6c9c-4426-9af3-f24e82234602.png",
+      alt: "Aerial view of Masjid al-Haram during Hajj"
     },
     {
-      src: "https://images.unsplash.com/photo-1557519583-fdf6ddf4e70a?q=80&w=1964",
-      alt: "Journey to Mina"
+      src: "/lovable-uploads/a1f2bedc-75f9-468e-9429-c9ab107174c1.png",
+      alt: "Pilgrims at Mount Arafat during Hajj"
     }
   ];
 
